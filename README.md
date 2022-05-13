@@ -1,9 +1,11 @@
-### 𝕳𝖊𝖑𝖑𝖔, 𝕴'𝖒 𝕯𝖔𝖚𝖌𝖑𝖆𝖘 𝕽𝖔𝖈𝖍𝖆 𝖋𝖚𝖑𝖑𝖘𝖙𝖐 𝖕𝖗𝖔𝖌𝖗𝖆𝖒𝖒𝖊𝖗  👾👾
+###  👾 𝖂𝖊𝖑𝖈𝖔𝖒𝖊 𝖙𝖔 𝖒𝖞 𝖘𝖙𝖚𝖉𝖊𝖓𝖙 𝖜𝖔𝖗𝖑𝖉 👾
 
 
-
+- 💻 Developer Full-Stack
 - 🌱 I’m currently learning: **/ MySQL / Spring Boot / Git e GitHub / JavaScript / React / HTML / CSS /**
-- 😄 Pronouns: HE
+- 🏡 Santo André, São Paulo.
+- 😄 Pronouns: HE / HIS
+
 </div>
 
 ##
@@ -14,6 +16,7 @@
   <a href="https://github.com/rafaballerini">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=dogzeira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dogzeira&layout=compact&langs_count=7&theme=dark"/>   
+  <img align="right" src="" width="200" height="200"/>
  
   </div>
   
