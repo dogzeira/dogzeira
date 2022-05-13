@@ -1,4 +1,4 @@
-### 𝑯𝒆𝒍𝒍𝒐, 𝑰'𝒎 𝑫𝒐𝒖𝒈𝒍𝒂𝒔 𝑹𝒐𝒄𝒌 𝒇𝒖𝒍𝒍𝒔𝒕𝒌 𝒑𝒓𝒐𝒈𝒓𝒂𝒎𝒎𝒆𝒓  👾👾
+### 𝕳𝖊𝖑𝖑𝖔, 𝕴'𝖒 𝕯𝖔𝖚𝖌𝖑𝖆𝖘 𝕽𝖔𝖈𝖍𝖆 𝖋𝖚𝖑𝖑𝖘𝖙𝖐 𝖕𝖗𝖔𝖌𝖗𝖆𝖒𝖒𝖊𝖗  👾👾
 
 
 - 🌱 I’m currently learning: **/ MySQL / Spring Boot / Git e GitHub / JavaScript / React / HTML / CSS /**
