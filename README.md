@@ -17,10 +17,27 @@
   <a href="https://github.com/dogzeira">
   <img height="175em" src="https://github-readme-stats.vercel.app/api?username=dogzeira&show_icons=true&theme=dark&include_all_commits=true&count_private=true&title_color=1a7d2e&icon_color=1a7d2e"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dogzeira&layout=compact&langs_count=7&theme=dark&title_color=1a7d2e"/>   
-
-  </div>
+</div>
   
-  ##
+##
+   
+  <div align="center">
+     <div align="center" valign="top"><br>
+     <img alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg%22%3E
+     <img alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg%22%3E
+     <img alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg%22%3E
+     <img alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg%22%3E
+     <img alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg%22%3E
+     <img alt="VScode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg%22%3E
+     <img alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg%22%3E
+     <img alt="nodejs" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg%22%3E
+     <img alt="Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg%22%3E
+     <img alt="github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg%22%3E
+     <img alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg%22%3E
+
+ </div>
+  
+ ##
    
   <div align="center">  
   <a href="https://instagram.com/_dogzeiraa_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
