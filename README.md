@@ -12,7 +12,7 @@
 
 <div>
   
-<div align="center">
+<div align="left">
   <a href="https://github.com/rafaballerini">
   <img height="175em" src="https://github-readme-stats.vercel.app/api?username=dogzeira&show_icons=true&theme=dark&include_all_commits=true&count_private=true&title_color=3d1594&icon_color=3d1594"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dogzeira&layout=compact&langs_count=7&theme=dark&title_color=3d1594"/>   
