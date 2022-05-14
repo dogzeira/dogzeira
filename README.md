@@ -31,6 +31,6 @@
     
     
   
-![Snake animation](https://github.com/dogzeira/dozeira/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/dogzeira/dogzeira/blob/output/github-contribution-grid-snake.svg)
 
    
