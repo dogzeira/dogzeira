@@ -1,10 +1,10 @@
-### <h1 align="center">👾 𝖂𝖊𝖑𝖈𝖔𝖒𝖊 𝖙𝖔 𝖒𝖞 𝖘𝖙𝖚𝖉𝖊𝖓𝖙 𝖜𝖔𝖗𝖑𝖉 👾</h2> 
+### <h1 align="center"> 🚀 𝖂𝖊𝖑𝖈𝖔𝖒𝖊 𝖙𝖔 𝖒𝖞 𝖘𝖙𝖚𝖉𝖊𝖓𝖙 𝖜𝖔𝖗𝖑𝖉 🚀 </h2> 
 
 
 - 💻 Developer Full-Stack
 - 🌱 I’m currently learning: **/ MySQL / Spring Boot / Git e GitHub / JavaScript / React / HTML / CSS /**
 - 🏡 Santo André, São Paulo.
-- 😄 Pronouns: HE / HIS
+- 😄 Pronouns: HE / HIM
 
 </div>
 
@@ -12,11 +12,12 @@
 
 <div>
   
+<img align="right" width="350px" src="https://c.tenor.com/57w9du3NrV0AAAAd/css-html.gif"> 
 <div align="left">
-  <a href="https://github.com/rafaballerini">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=dogzeira&show_icons=true&theme=dark&include_all_commits=true&count_private=true&title_color=3d1594&icon_color=3d1594"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dogzeira&layout=compact&langs_count=7&theme=dark&title_color=3d1594"/>   
-  <img align="right" width="450px" src="https://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif"> 
+  <a href="https://github.com/dogzeira">
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=dogzeira&show_icons=true&theme=dark&include_all_commits=true&count_private=true&title_color=1a7d2e&icon_color=1a7d2e"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dogzeira&layout=compact&langs_count=7&theme=dark&title_color=1a7d2e"/>   
+
   </div>
   
   ##
