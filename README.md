@@ -4,6 +4,9 @@
  
 <img align="right" width="190" src="https://c.tenor.com/57w9du3NrV0AAAAd/css-html.gif">
 
+ <br>
+ <br>
+ 
  - 💻 Developer Full-Stack
 - 🌱 I’m currently learning: **/ MySQL / Spring Boot / Git e GitHub / JavaScript / React / HTML / CSS /**
 - 🏡 Santo André, São Paulo.
