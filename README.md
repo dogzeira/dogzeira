@@ -2,7 +2,7 @@
 
 <div>
  
-<img align="right" width="250" src="https://c.tenor.com/57w9du3NrV0AAAAd/css-html.gif">
+<img align="right" width="200" src="https://c.tenor.com/57w9du3NrV0AAAAd/css-html.gif">
 
  - 💻 Developer Full-Stack
 - 🌱 I’m currently learning: **/ MySQL / Spring Boot / Git e GitHub / JavaScript / React / HTML / CSS /**
